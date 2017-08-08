@@ -1,0 +1,143 @@
+
+body{
+    overflow-x: hidden;
+}
+
+a {
+    color: #e8603c !important;
+}
+
+.navbar-default {
+    background-color: transparent;
+    border: none;
+}
+
+.navbar-right {
+    margin-top: 30px;
+}
+
+nav .navbar h1 {
+    float: left;
+    margin: 0;
+}
+
+.navbar-brand {
+    font-size: 45px;
+    margin-top: 11px;
+}
+
+.navbar-brand span {
+    color: #f3af9d;
+}
+.navbar-toggle{
+    margin-top: 38px;
+    margin-right: 25px;
+}
+
+#bg-strip {
+    position: absolute;
+    height: 100px;
+    width: 100%;
+    background-color: #f0ac9a;
+}
+article a{
+    color: white !important;
+}
+
+.line {
+    background-image: url("../img/line.png");
+    background-repeat: repeat;
+    background-size: cover;
+    height: 20px;
+    margin: 20px 0px;
+}
+
+.line span {
+    color: #e8603c;
+    font-family: bebasneue;
+    font-size: 18px;
+    background-color: #ffffff;
+    display: block;
+    width: 130px;
+}
+
+.more {
+    width: 62px;
+    height: 30px;
+    background-color: #e8663c;
+    color: #ffffff;
+    display: block;
+    padding: 10px 4px;
+    text-transform: uppercase;
+    font-family: bebasneue;
+}
+
+.avatar {
+    margin: 13px 0;
+}
+
+.avatar h3 {
+    font-family: bebasneue;
+    font-size: 16px;
+    color: #b9b9b9;
+    margin-left: 15px;
+}
+
+.avatar span {
+    color: #e8663c;
+    font-size: 11px;
+    font-family: bebasneue;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+footer {
+    background: #f3b29d;
+}
+
+footer .container {
+    background: #e8663c;
+    padding: 40px 20px;
+}
+
+footer h1 {
+    color: #ffffff;
+    font-size: 24px;
+    font-family: bebasneue;
+    font-weight: bold;
+}
+
+footer p {
+    color: #ffffff;
+    font-size: 12px;
+    font-family: helveticaneue;
+}
+
+.contact {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.contact li {
+    float: left;
+    margin-right: 4px;
+}
+
+.glyphicon-chevron-left, .glyphicon-chevron-right {
+    color: transparent;
+}
+
+.glyphicon-chevron-left img, .glyphicon-chevron-right img {
+    position: absolute;
+}
+
+.glyphicon-chevron-left img {
+    top: -12px;
+    left: -4px;
+}
+
+.glyphicon-chevron-right img {
+    top: -12px;
+    right: -4px;
+}
